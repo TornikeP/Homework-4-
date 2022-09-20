@@ -4,4 +4,11 @@ ul{
 li{
     list-style: none;
     margin-left: 150px;
+    margin-right: 150px;
+}
+.log{
+    margin-left: 200px;
+}
+.reg{
+    margin-left: 260px;
 }
